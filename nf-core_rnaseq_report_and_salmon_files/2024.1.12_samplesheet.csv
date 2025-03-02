@@ -1,0 +1,11 @@
+sample,fastq_1,fastq_2,strandedness
+naive_1,naive_1_S27_R1_001.fastq.gz,naive_1_S27_R2_001.fastq.gz,auto
+naive_2,naive_2_S28_R1_001.fastq.gz,naive_2_S28_R2_001.fastq.gz,auto
+naive_3,naive_3_S29_R1_001.fastq.gz,naive_3_S29_R2_001.fastq.gz,auto
+naive_4,naive_4_S30_R1_001.fastq.gz,naive_4_S30_R2_001.fastq.gz,auto
+naive_5,naive_5_S1_R1_001.fastq.gz,naive_5_S1_R2_001.fastq.gz,auto
+infected_6,infected_6_S2_R1_001.fastq.gz,infected_6_S2_R2_001.fastq.gz,auto
+infected_7,infected_7_S3_R1_001.fastq.gz,infected_7_S3_R2_001.fastq.gz,auto
+infected_8,infected_8_S4_R1_001.fastq.gz,infected_8_S4_R2_001.fastq.gz,auto
+infected_9,infected_9_S5_R1_001.fastq.gz,infected_9_S5_R2_001.fastq.gz,auto
+infected_10,infected_10_S6_R1_001.fastq.gz,infected_10_S6_R2_001.fastq.gz,auto
